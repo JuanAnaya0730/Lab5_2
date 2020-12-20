@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Imagenes">
+        <file>Nivel1.png</file>
+        <file>Inicio.png</file>
+        <file>Icono.ico</file>
+        <file>Icono2.ico</file>
+        <file>Icono3.ico</file>
+        <file>Icono4.ico</file>
+        <file>Nivel1-1.png</file>
+        <file>Nivel1-2.png</file>
+        <file>Moneda.png</file>
+        <file>Pacman1.png</file>
+        <file>Pacman2.png</file>
+        <file>Pacman3.png</file>
+        <file>Pacman.png</file>
+    </qresource>
+</RCC>
